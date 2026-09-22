@@ -5,7 +5,7 @@ Fertigungsdaten für die MiraiPanel-Hardware (PCB + Gehäuse).
 Teil der [MiraiPanel](https://github.com/Holzmusik/MiraiPanel)-Projektfamilie
 — siehe dort für die Gesamtübersicht, sowie
 [MiraiPanel-LCD](https://github.com/Holzmusik/MiraiPanel-LCD) (Firmware) und
-[LoxBerry-Plugin-MiraiPanel](https://github.com/Holzmusik/LoxBerry-Plugin-MiraiPanel)
+[LoxBerry-Plugin-MiraiBridge](https://github.com/Holzmusik/LoxBerry-Plugin-MiraiBridge)
 (Loxone-Bridge).
 
 ## Was hier reinkommt (und was nicht)
